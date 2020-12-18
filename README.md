@@ -2,7 +2,11 @@
 
 I'm a High School student from Lexington, MA interested in electrical engineering using circuits and embedded systems. I use C++ mainly for embedded systems projects, but am equally skilled in Java for FTC . I program for [@FTC-WeAreRobo](https://github.com/FTC-WeAreRobo) and am part of [@HackClub](https://github.com/HackClub).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgorbunov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 Check out some of my projects below!
+
+
 
 <!--
 **dgorbunov/dgorbunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
