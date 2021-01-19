@@ -1,6 +1,6 @@
 ### Hi, I'm Daniel!
 
-I'm a High School student from Lexington, MA interested in electrical engineering using circuits and embedded systems. I use C++ mainly for embedded systems projects, but am equally skilled in Java for FTC . I program for [@FTC-WeAreRobo](https://github.com/FTC-WeAreRobo) and am part of [@HackClub](https://github.com/HackClub).
+I'm a High School student from Lexington, MA interested in electrical engineering using circuits and embedded systems. I mainly use C++/C# and Java for embedded systems. I program for [@FTC-WeAreRobo](https://github.com/FTC-WeAreRobo) and am part of [@HackClub](https://github.com/HackClub). I keep most of my projects open source in public repos.
 
 Check out some of my projects below!
 
