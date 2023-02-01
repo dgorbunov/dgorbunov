@@ -1,7 +1,6 @@
-### Hi!
 
-I'm a student at the University of Massachusetts Amherst studying Computer Science with a passion for electronics. My projects typically focus on developing and programming embedded systems. I try to keep everything I do open source, feel free to use anything you'd like!
+## Hi!
 
-Currently competing in MIT 6.147 Battlecode — MIT's annual programming competition.
+I'm a student at the University of Massachusetts Amherst studying Computer Science. My projects focus on electronics and embedded systems engineering. I keep all of my projects open source, feel free to use them!
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgorbunov&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+If you have a question about a project, feel free to reach me at *dgorbunov {at} umass.edu*
