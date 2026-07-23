@@ -1,5 +1,5 @@
 
-## Projects in the pursuit of curiosity
-I'm a student who loves building open-source projects across interactive media, audio, security, and embedded systems. I strive to make the knowledge I gain from these projects freely accessible to all and keep all of my projects open source.
+## projects driven by curiosity
+Driven by deep curiosities in fields like interactive media, audio, and embedded security, I build things at the intersection of hardware and software. With a background in both Electrical Engineering and Computer Science, I love designing and engineering systems from the ground up. All my projects are open-source and free to use without restriction.
 
-If you have a question about a project, feel free to send me an email: dgorbunov [at] wpi [dot] edu.
+If you have a question about a project, feel free to send me an email: dgorbunov [at] stanford [dot] edu.
